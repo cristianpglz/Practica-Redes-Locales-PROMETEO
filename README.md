@@ -38,7 +38,7 @@ Se ha optado por una topología física en estrella segmentada lógicamente para
 La simulación se ha realizado con Cisco Packet Tracer. Los componentes clave son:
 
 * **Capa de Distribución:** Router 4331 gestionando subinterfaces y Switch 2960-24TT para la conmutación de VLANs bajo el estándar 802.1Q.
-* **Capa de Acceso:** Mezcla de dispositivos finales (PCs, laptops), dispositivos de infraestructura IoT y terminales de control de acceso.
+* **Capa de Acceso:** Mezcla de dispositivos finales (PCs, Portatiles), dispositivos de infraestructura IoT y terminales de control de acceso.
 * **Movilidad:** Despliegue de múltiples Puntos de Acceso (AP) configurados para extender la cobertura inalámbrica de forma transparente.
 
 ---
