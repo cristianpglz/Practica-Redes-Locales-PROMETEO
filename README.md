@@ -20,9 +20,12 @@ Para el correcto funcionamiento del gimnasio, se han identificado y cubierto las
 Se ha optado por una topología física en estrella segmentada lógicamente para garantizar la disponibilidad. Un fallo en un cable individual no afecta al resto de la infraestructura.
 
 #### Mapa Visual de la Infraestructura
-**GENERAL:**<img width="2324" height="1020" alt="image" src="https://github.com/user-attachments/assets/8eb57aec-5b24-476d-ab47-f229a23478ac" />
-**SWITCH:**<img width="814" height="177" alt="image" src="https://github.com/user-attachments/assets/5430b32f-f49c-445a-8c05-dc1ce3fe779a" />
-**ROUTER:**<img width="683" height="417" alt="image" src="https://github.com/user-attachments/assets/50606e02-895c-4233-b4a0-55e7775a3fc8" />
+**GENERAL:**
+<img width="2324" height="1020" alt="image" src="https://github.com/user-attachments/assets/8eb57aec-5b24-476d-ab47-f229a23478ac" />
+**SWITCH:**
+<img width="814" height="177" alt="image" src="https://github.com/user-attachments/assets/5430b32f-f49c-445a-8c05-dc1ce3fe779a" />
+**ROUTER:**
+<img width="683" height="417" alt="image" src="https://github.com/user-attachments/assets/50606e02-895c-4233-b4a0-55e7775a3fc8" />
 
 ---
 
