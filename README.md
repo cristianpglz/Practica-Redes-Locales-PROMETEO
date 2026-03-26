@@ -1,4 +1,4 @@
-Proyecto Red Local: GIMNASIO
+## Proyecto Red Local: GIMNASIO
 
 Este repositorio contiene la propuesta integral de diseño y configuración de red local para una empresa de servicios deportivos de alta tecnología. El proyecto ha sido desarrollado para el módulo de Redes Locales dentro del Proyecto Intermodular.
 
